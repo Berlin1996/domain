@@ -1,0 +1,11 @@
+{
+  "description": "Personal website",
+  "repo": "https://github.com/hosein/berlin1996.github.io",
+  "owner": {
+    "username": "Berlin1996",
+    "email": "hosseinmohajerr75@gmail.com"
+  },
+  "record": {
+    "CNAME": "berlin1996.github.io"
+  }
+}
